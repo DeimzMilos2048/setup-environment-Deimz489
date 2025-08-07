@@ -26,7 +26,7 @@ You should see a message in your terminal indicating that the server is running 
 
 #### 2\. Start the Client
 
-In a new terminal window, navigate to the `Client` directory and install its dependencies. Then, start the React development server.
+In a new terminal window, navigate to the `Client` directory and install its dependencies. Then, start the React development server which is mariadb.
 
 ```bash
 cd Client
@@ -34,4 +34,5 @@ npm install
 npm start
 ```
 
-This will launch the client application in your default web browser, usually at `http://localhost:3000/`.
+This will launch the client application in your default web browser, usually at `http://localhost:5000/`.
+
